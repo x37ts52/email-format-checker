@@ -48,3 +48,7 @@ console.log(validEmailAddress)
 1. Email address can not be empty
 2. It compares whether email and email are alike
 3. Email adress will be checked if there is an at-sign and a dot
+
+## License
+
+MIT
