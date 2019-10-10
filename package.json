@@ -1,7 +1,7 @@
 {
   "name": "email-format-checker",
-  "version": "0.0.3",
-  "description": "The emailFormatChecker will check email addresses for these to have a valid format",
+  "version": "0.0.4",
+  "description": "The email-format-checker will check email addresses for these to have a valid format",
   "main": "emailFormatChecker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
