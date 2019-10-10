@@ -1,4 +1,4 @@
-# emailFormatchecker
+# npm - emailFormatChecker
 
 ## What is this?
 The emailFormatChecker will check email addresses for these to have a valid format
@@ -18,7 +18,7 @@ const options = {
   emailRepeat: 'maxmustermann@beispiel.de'
 }
 
-const validEmailAdress = emailFormatchecker(options)
+const validEmailAddress = emailFormatchecker(options)
 ```
 
 ## Options
