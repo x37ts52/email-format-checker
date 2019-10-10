@@ -2,7 +2,7 @@
 
 ## What is this?
 
-The emailFormatChecker will check email addresses for these to have a valid format
+The email-format-checker will check email addresses for these to have a valid format
 
 ## Install
 
