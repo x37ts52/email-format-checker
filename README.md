@@ -1,10 +1,14 @@
-# What is this?
-It checks if the email address has a valid format
+# emailFormatchecker
 
-# Installation
-`npm i emailFormatChecker`
+## What is this?
+The emailFormatChecker will check email addresses for these to have a valid format
 
-# How to use it?
+## Installation
+```
+npm i emailFormatChecker
+```
+
+## How to use it?
 
 ```
 const emailFormatChecker = require('emailFormatChecker')
@@ -24,6 +28,6 @@ const validEmailAdress = emailFormatchecker(options)
 | email       | string | The email address wich will be checked                  |
 | emailRepeat | string | The repeating email address to check for spell mistakes |
 
-# What checks the emailFormatChecker?
+## What checks the emailFormatChecker?
 
 1. If email address is not empty
