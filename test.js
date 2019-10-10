@@ -6,7 +6,7 @@ const options = {
   emailRepeat: 'maxmustermann@beispiel.de'
 }
 
-// fire the object to the function
+// fire the object with the function
 const validEmailAddress = emailFormatChecker(options)
 
 // console output for testing: boolean
