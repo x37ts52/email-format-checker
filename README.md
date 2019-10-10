@@ -1,17 +1,17 @@
-# npm - emailFormatChecker
+# npm - email-format-checker
 
 ## What is this?
 The emailFormatChecker will check email addresses for these to have a valid format
 
-## Installation
+## Install
 ```
-npm i emailFormatChecker
+npm i email-format-checker
 ```
 
 ## How to use it?
 
 ```
-const emailFormatChecker = require('emailFormatChecker')
+const emailFormatChecker = require('email-format-checker')
 
 const options = {
   email: 'maxmustermann@beispiel.de',

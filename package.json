@@ -1,10 +1,14 @@
 {
   "name": "email-format-checker",
   "version": "0.0.1",
-  "description": "It checks if the email address has a valid format",
+  "description": "The emailFormatChecker will check email addresses for these to have a valid format",
   "main": "emailFormatChecker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x37ts52/emailFormatChecker.git"
   },
   "keywords": [
     "email",
