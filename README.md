@@ -18,7 +18,7 @@ const options = {
   emailRepeat: 'maxmustermann@beispiel.de'
 }
 
-const validEmailAddress = emailFormatchecker(options)
+const validEmailAddress = emailFormatChecker(options)
 ```
 
 ## Options

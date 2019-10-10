@@ -1,8 +1,10 @@
 const emailFormatChecker = (options) => {
   if (options.email != '') {
-    console.log('true')
+    // console.log('Email is not empty')
+    return true
   } else {
-    console.error('false')
+    // console.error('Email is empty!')
+    return false
   }
 }
 
