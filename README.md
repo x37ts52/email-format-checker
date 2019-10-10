@@ -1,4 +1,4 @@
-# npm - email-format-checker
+# email-format-checker
 
 ## What is this?
 The emailFormatChecker will check email addresses for these to have a valid format
@@ -11,14 +11,20 @@ npm i email-format-checker
 ## How to use it?
 
 ```
+// use the object to interact with the module
 const emailFormatChecker = require('email-format-checker')
 
+// use the object to interact with the module
 const options = {
   email: 'maxmustermann@beispiel.de',
   emailRepeat: 'maxmustermann@beispiel.de'
 }
 
+// fire the object to the function
 const validEmailAddress = emailFormatChecker(options)
+
+// console output for testing: boolean
+console.log(validEmailAddress)
 ```
 
 ## Options
