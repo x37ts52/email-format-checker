@@ -1,0 +1,17 @@
+{
+  "name": "email-format-checker",
+  "version": "0.0.1",
+  "description": "It checks if the email address has a valid format",
+  "main": "emailFormatChecker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email",
+    "format",
+    "checker",
+    "validator"
+  ],
+  "author": "x37ts52",
+  "license": "MIT"
+}
