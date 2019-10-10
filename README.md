@@ -2,7 +2,7 @@
 
 ## What is this?
 
-The email-format-checker will check email addresses for these to have a valid format
+The email-format-cnpm puhecker will check email addresses for these to have a valid format
 
 ## Install
 
@@ -30,14 +30,14 @@ console.log(validEmailAddress)
 
 ## Options (input / output)
 
-**Input**
+### Input
 
 | Parameter   | Type   | Description                                             |
 | ----------- | ------ | ------------------------------------------------------- |
 | email       | string | The email address wich will be checked                  |
 | emailRepeat | string | The repeating email address to check for spell mistakes |
 
-**Output**
+### Output
 
 | Type    | Description            |
 | ------- | ---------------------- |
