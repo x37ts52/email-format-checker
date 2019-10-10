@@ -28,6 +28,8 @@ console.log(validEmailAddress)
 
 ## Options
 
+| Input                                                                          |
+| -------------------------------------------------------------------------------|
 | Parameter   | Type   | Description                                             |
 | ------------| -------| --------------------------------------------------------|
 | email       | string | The email address wich will be checked                  |
