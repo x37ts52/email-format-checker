@@ -11,7 +11,6 @@ npm i email-format-checker
 ## How to use it?
 
 ```
-// use the object to interact with the module
 const emailFormatChecker = require('email-format-checker')
 
 // use the object to interact with the module
