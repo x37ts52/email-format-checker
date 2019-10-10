@@ -29,12 +29,14 @@ console.log(validEmailAddress)
 ## Options (input / output)
 
 ** Input **
+
 | Parameter   | Type   | Description                                             |
 | ------------| -------| --------------------------------------------------------|
 | email       | string | The email address wich will be checked                  |
 | emailRepeat | string | The repeating email address to check for spell mistakes |
 
 ** Output **
+
 | Type    | Description             |
 | --------| ------------------------|
 | boolean | Return a true or false |
