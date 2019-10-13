@@ -6,13 +6,13 @@ The email-format-checker will check email addresses for these to have a valid fo
 
 ## Install
 
-```
+```javascript
 npm i email-format-checker
 ```
 
 ## How to use it?
 
-```
+```javascript
 const emailFormatChecker = require('email-format-checker')
 
 // use the object to interact with the module
@@ -46,7 +46,7 @@ console.log(validEmailAddress)
 ## What will be checked?
 
 1. Email address can not be empty
-2. It compares whether email and email are alike
+2. It compares whether email and emailRepeat are alike
 3. Email adress will be checked if there is an at-sign and a dot
 
 ## License
