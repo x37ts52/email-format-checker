@@ -1,6 +1,6 @@
 {
   "name": "email-format-checker",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "The email-format-checker will check email addresses for these to have a valid format",
   "main": "email-format-checker.js",
   "repository": {
